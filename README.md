@@ -1,5 +1,3 @@
-A brief description of what this project does and who it's for
-
 ## PWC Power BI Virtual work experience - Customer Churn Retention
 
 
@@ -106,7 +104,12 @@ Shows visualizations from Customer Retention analysis:
 
 | Service opted by customer |
 | ----------- |
-|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/EuniceFeyisayo/Microsoft-dem/blob/main/Customer_demography_up.jpg)|
+|![PWC Task 2-Customer Churn Retenstion_page-0001](https://github.com/EuniceFeyisayo/Microsoft-dem/blob/main/Customer_act_pwc.png)|
+
+
+| Customer Account information |
+| ----------- |
+|![PWC Task 2-Customer Churn Retenstion_page-0003](https://github.com/EuniceFeyisayo/Microsoft-dem/blob/main/Account_pwc.png)|
 
 ## Insight
 
